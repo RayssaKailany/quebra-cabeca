@@ -1,1 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(151, 0, 76);
+}
 
+.quebra-cabeca{
+    width: 900px;
+    height: 400px;
+    font-display: flex;
+    flex-wrap: wrap;
+}
