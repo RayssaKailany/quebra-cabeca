@@ -5,8 +5,8 @@
 }
 
 .quebra-cabeca{
-    width: 400px;
-    
-    font-display: flex;
+    width: 900px;
+    height: 400px;
+    display: flex;
     flex-wrap: wrap;
 }
